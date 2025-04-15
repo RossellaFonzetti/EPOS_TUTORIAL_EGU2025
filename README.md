@@ -36,6 +36,7 @@ jupyter-lab
 ## Contributors
 
 •⁠  ⁠*Rossella Fonzetti* – EPOS, INGV rossella.fonzetti@ingv.it
+
 •⁠  ⁠*Daniele Bailo* – EPOS, INGV daniele.bailo@invg.it
 
 For any questions or feedback, feel free to open an [issue](https://github.com/RossellaFonzetti/EPOS_TUTORIAL_EGU2025/issues) or contact us directly.
