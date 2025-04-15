@@ -80,3 +80,14 @@ List of the major earthquakes of the 2016–2017 Central Italy Sequence
 | 18 Jan 2017      | 14:33:36               | 5.0            | 10         | Cagnano Amiterno              | 42.47 N  | 13.28 E   |
 
 These events significantly affected Lazio, Marche, Umbria, and Abruzzo, causing extensive damage and casualties. The Mw 6.5 earthquake on October 30, 2016, was the strongest in Italy since 1980 (and it will be the case study of this tutorial).
+
+
+In the following, the jupyter-notebook description:
+
+- 0_Introduction.ipynb: Description of the 2016-2017 seismic sequence and the procedure of creating a seismic catalog;
+
+- 1_dowload_mseed.ipynb: Download seismic data in mseed format of seismic stations based on defined time interval and range of latitude and longitude;
+
+- 2_apply_picking.ipynb: P- and S-wave picking (i.e., reading the arrival times of seismic waves at various stations) with the artificial intelligence methods (Seisbench platform and PhaseNet with the training of INSTANCE, i.e., Italian dataset).
+
+- 3_built_the_catalog.ipynb: Using GaMMA to associate seismic phases with a seismic event, creating a raw catalog.
