@@ -23,14 +23,15 @@ To run the tutorial materials locally, you need:
 •⁠  ⁠Git
 •⁠  ⁠Python 3.9+
 
-### Setup Instructions
-
+## Setup Instructions
+```python
 ⁠bash
 git clone https://github.com/RossellaFonzetti/EPOS_TUTORIAL_EGU2025.git
 cd EPOS_TUTORIAL_EGU2025
 conda env create -f environment.yml
 conda activate epos_tutorial
-jupyter lab
+jupyter-lab
+```
 
 ## INTRODUCTION TO THE CASE STUDY
 
