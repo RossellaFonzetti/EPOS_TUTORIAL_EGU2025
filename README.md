@@ -20,7 +20,9 @@ All examples are tailored to promote **FAIR data** practices and reproducible sc
 To run the tutorial materials locally, you need:
 
 •⁠  ⁠[Anaconda or Miniconda](https://docs.conda.io/en/latest/)
+
 •⁠  ⁠Git
+
 •⁠  ⁠Python 3.9+
 
 ## Setup Instructions
