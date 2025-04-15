@@ -33,6 +33,18 @@ conda activate epos_tutorial
 jupyter-lab
 ```
 
+## Contributors
+
+•⁠  ⁠*Rossella Fonzetti* – EPOS, INGV rossella.fonzetti@ingv.it
+•⁠  ⁠*Daniele Bailo* – EPOS, INGV daniele.bailo@invg.it
+
+For any questions or feedback, feel free to open an [issue](https://github.com/RossellaFonzetti/EPOS_TUTORIAL_EGU2025/issues) or contact us directly.
+
+---
+
+©️ 2025 | EPOS – European Plate Observing System  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 ## INTRODUCTION TO THE CASE STUDY
 
 This tutorial explains step by step the creation of seismic catalog using deep learning methods.
