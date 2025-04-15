@@ -1,4 +1,39 @@
 # EPOS_TUTORIAL_EGU2025
+
+Welcome to the **EPOS Tutorial** repository for the *EGU General Assembly 2025*!
+
+This repository contains the materials, notebooks, and instructions for the *EPOS Tutorial* held during EGU 2025. The aim is to guide users through the integration and use of EPOS research infrastructures and services with a practical, hands-on approach.
+
+## Overview
+
+In this tutorial, participants will learn how to:
+
+•⁠  ⁠Access and use EPOS data and services
+•⁠  ⁠Reproduce simple geophysical workflows
+•⁠  ⁠Explore cross-disciplinary integration of data
+•⁠  ⁠Run Jupyter Notebooks with real data
+
+All examples are tailored to promote **FAIR data** practices and reproducible science.
+
+## Requirements
+
+To run the tutorial materials locally, you need:
+
+•⁠  ⁠[Anaconda or Miniconda](https://docs.conda.io/en/latest/)
+•⁠  ⁠Git
+•⁠  ⁠Python 3.9+
+
+### Setup Instructions
+
+⁠bash
+git clone https://github.com/RossellaFonzetti/EPOS_TUTORIAL_EGU2025.git
+cd EPOS_TUTORIAL_EGU2025
+conda env create -f environment.yml
+conda activate epos_tutorial
+jupyter lab
+
+### INTRODUCTION TO THE CASE STUDY
+
 This tutorial explains step by step the creation of seismic catalog using deep learning methods.
 
 
