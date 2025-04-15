@@ -1,6 +1,9 @@
 # EPOS_TUTORIAL_EGU2025
 This tutorial explains step by step the creation of seismic catalog using deep learning methods.
+
+
 The case study is the 2016-2017 Amatrice-Visso-Norcia seismic sequence (Central Italy).
+
 The 2016 Central Italy seismic sequence is one of the most significant recent seismic crises in Europe. It began on **August 24, 2016**, with a magnitude Mw 6.0 earthquake near Amatrice, followed by several major events in the following months (e.g., Mw 5.9 on Oct 26, Mw 6.5 on Oct 30).
 
 ![Seismicity Map - Central Italy 2016](https://upload.wikimedia.org/wikipedia/commons/a/a4/30-10-2016_central_italy_ShakeMap.jpg)
