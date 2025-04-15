@@ -32,7 +32,7 @@ conda env create -f environment.yml
 conda activate epos_tutorial
 jupyter lab
 
-### INTRODUCTION TO THE CASE STUDY
+## INTRODUCTION TO THE CASE STUDY
 
 This tutorial explains step by step the creation of seismic catalog using deep learning methods.
 
