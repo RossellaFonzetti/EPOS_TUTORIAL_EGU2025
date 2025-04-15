@@ -9,8 +9,11 @@ This repository contains the materials, notebooks, and instructions for the *EPO
 In this tutorial, participants will learn how to:
 
 •⁠  ⁠Access and use EPOS data and services
+
 •⁠  ⁠Reproduce simple geophysical workflows
+
 •⁠  ⁠Explore cross-disciplinary integration of data
+
 •⁠  ⁠Run Jupyter Notebooks with real data
 
 All examples are tailored to promote **FAIR data** practices and reproducible science.
