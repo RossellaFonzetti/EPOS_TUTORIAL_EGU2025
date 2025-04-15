@@ -18,6 +18,18 @@ In this tutorial, participants will learn how to:
 
 All examples are tailored to promote **FAIR data** practices and reproducible science.
 
+
+## Repository Structure
+```python
+⁠ bash
+EPOS_TUTORIAL_EGU2025/
+├── notebooks/            # Jupyter Notebooks used in the tutorial
+├── data_example/         # Sample datasets
+├── output/               # Catalog and picks output files
+├── epos_tutorial.yml     # Conda environment for reproducibility
+└── README.md             # You're here!
+```
+
 ## Requirements
 
 To run the tutorial materials locally, you need:
