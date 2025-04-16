@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.2">
+  <Source>eXistDB</Source>
+  <Sender>INGV-ONT</Sender>
+  <Module>INGV-ONT WEB SERVICE: fdsnws-station | version: 1.1.61</Module>
+  <ModuleURI>/exist/apps/fdsn-station/fdsnws/station/1/query?starttime=2016-10-30T00%3A00%3A00.000000&amp;endtime=2016-10-31T00%3A00%3A00.000000&amp;network=%2A&amp;channel=HH%3F%2CEH%3F&amp;minlatitude=42.4&amp;maxlatitude=43.2&amp;minlongitude=12.8&amp;maxlongitude=13.6&amp;level=channel</ModuleURI>
+  <Created>2025-04-14T12:50:40.676000Z</Created>
+  <Network code="8P" startDate="2016-08-24T00:00:00.000000Z" endDate="2018-07-05T23:59:59.000000Z" restrictedStatus="open" historicalCode="IV">
+    <Description>INGV SISMIKO Emergency Seismic Network for 2016 Central Italy Sequence</Description>
+    <Identifier type="DOI">10.13127/sd/2pnsq5uatq</Identifier>
+    <TotalNumberStations>23</TotalNumberStations>
+    <SelectedNumberStations>20</SelectedNumberStations>
+    <Station code="T1243" startDate="2016-08-24T09:19:00.000000Z" endDate="2017-02-19T12:02:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">42.69657</Latitude>
+      <Longitude unit="DEGREES">13.44839</Longitude>
+      <Elevation>1120.0</Elevation>
+      <Site>
+        <Name>Rocca Santa Maria, Loc. Ceppo (TE)</Name>
+      </Site>
+      <CreationDate>2016-03-09T09:00:09.000000Z</CreationDate>
+      <TerminationDate>2017-02-19T12:02:00.000000Z</TerminationDate>
+      <SelectedNumberChannels>3</SelectedNumberChannels>
+      <Channel code="HHE" startDate="2016-08-24T09:19:00.000000Z" endDate="2017-02-19T12:02:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">42.69657</Latitude>
+        <Longitude unit="DEGREES">13.44839</Longitude>
+        <Elevation>1120.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <SampleRateRatio>
+          <NumberSamples>100</NumberSamples>
+          <NumberSeconds>1</NumberSeconds>
+        </SampleRateRatio>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <Sensor>
+          <Type>Velocimeter</Type>
+          <Description>NANOMETRICS TrilliumCompact120</Description>
+          <Manufacturer>NANOMETRICS</Manufacturer>
+          <Model>TrilliumCompact120</Model>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2-FS-40-VPP</Description>
+          <Manufacturer>INGV</Manufacturer>
+          <Model>GAIA2-FS-40-VPP</Model>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>235647000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>counts</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+      <Channel code="HHN" startDate="2016-08-24T09:19:00.000000Z" endDate="2017-02-19T12:02:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">42.69657</Latitude>
+        <Longitude unit="DEGREES">13.44839</Longitude>
+        <Elevation>1120.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <SampleRateRatio>
+          <NumberSamples>100</NumberSamples>
+          <NumberSeconds>1</NumberSeconds>
+        </SampleRateRatio>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <Sensor>
+          <Type>Velocimeter</Type>
+          <Description>NANOMETRICS TrilliumCompact120</Description>
+          <Manufacturer>NANOMETRICS</Manufacturer>
+          <Model>TrilliumCompact120</Model>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2-FS-40-VPP</Description>
+          <Manufacturer>INGV</Manufacturer>
+          <Model>GAIA2-FS-40-VPP</Model>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>235647000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>counts</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" startDate="2016-08-24T09:19:00.000000Z" endDate="2017-02-19T12:02:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">42.69657</Latitude>
+        <Longitude unit="DEGREES">13.44839</Longitude>
+        <Elevation>1120.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <SampleRateRatio>
+          <NumberSamples>100</NumberSamples>
+          <NumberSeconds>1</NumberSeconds>
+        </SampleRateRatio>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <Sensor>
+          <Type>Velocimeter</Type>
+          <Description>NANOMETRICS TrilliumCompact120</Description>
+          <Manufacturer>NANOMETRICS</Manufacturer>
+          <Model>TrilliumCompact120</Model>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2-FS-40-VPP</Description>
+          <Manufacturer>INGV</Manufacturer>
+          <Model>GAIA2-FS-40-VPP</Model>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>235647000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>counts</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+    </Station>
+  </Network>
+</FDSNStationXML>

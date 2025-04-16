@@ -1,0 +1,415 @@
+=== Download started at 2025-04-14 14:51:54 ===
+
+>> Downloading from 2016-10-30 to 2016-10-31
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ08/EHE.D/3A.MZ08..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ08/EHN.D/3A.MZ08..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ08/EHZ.D/3A.MZ08..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ08.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ10/EHE.D/3A.MZ10..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ10/EHN.D/3A.MZ10..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ10/EHZ.D/3A.MZ10..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ10.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ103/EHE.D/3A.MZ103..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ103/EHN.D/3A.MZ103..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ103/EHZ.D/3A.MZ103..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ103.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ104/EHE.D/3A.MZ104..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ104/EHN.D/3A.MZ104..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ104/EHZ.D/3A.MZ104..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ104.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ105/EHE.D/3A.MZ105..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ105/EHN.D/3A.MZ105..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ105/EHZ.D/3A.MZ105..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ105.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ11/EHE.D/3A.MZ11..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ11/EHN.D/3A.MZ11..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ11/EHZ.D/3A.MZ11..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ11.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ12/EHE.D/3A.MZ12..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ12/EHN.D/3A.MZ12..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ12/EHZ.D/3A.MZ12..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ12.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ14/EHE.D/3A.MZ14..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ14/EHN.D/3A.MZ14..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ14/EHZ.D/3A.MZ14..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ14.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ19/EHE.D/3A.MZ19..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ19/EHN.D/3A.MZ19..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ19/EHZ.D/3A.MZ19..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ19.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ21/EHE.D/3A.MZ21..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ21/EHN.D/3A.MZ21..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ21/EHZ.D/3A.MZ21..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ21.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ24/EHE.D/3A.MZ24..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ24/EHN.D/3A.MZ24..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ24/EHZ.D/3A.MZ24..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ24.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ25/EHE.D/3A.MZ25..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ25/EHN.D/3A.MZ25..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ25/EHZ.D/3A.MZ25..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ25.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ26/EHE.D/3A.MZ26..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ26/EHN.D/3A.MZ26..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ26/EHZ.D/3A.MZ26..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ26.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ27/EHE.D/3A.MZ27..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ27/EHN.D/3A.MZ27..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ27/EHZ.D/3A.MZ27..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ27.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ28/EHE.D/3A.MZ28..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ28/EHN.D/3A.MZ28..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ28/EHZ.D/3A.MZ28..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ28.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ29/EHE.D/3A.MZ29..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ29/EHN.D/3A.MZ29..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ29/EHZ.D/3A.MZ29..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ29.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ30/EHE.D/3A.MZ30..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ30/EHN.D/3A.MZ30..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ30/EHZ.D/3A.MZ30..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ30.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ31/EHE.D/3A.MZ31..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ31/EHN.D/3A.MZ31..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/3A/MZ31/EHZ.D/3A.MZ31..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/3A.MZ31.xml
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading 8P.T1202.EHE: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading 8P.T1202.EHN: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading 8P.T1202.EHZ: All clients failed for get_waveforms.
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1202.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1204/EHE.D/8P.T1204..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1204/EHN.D/8P.T1204..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1204/EHZ.D/8P.T1204..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1204.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1211/EHE.D/8P.T1211..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1211/EHN.D/8P.T1211..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1211/EHZ.D/8P.T1211..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1211.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1212/EHE.D/8P.T1212..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1212/EHN.D/8P.T1212..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1212/EHZ.D/8P.T1212..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1212.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1213/EHE.D/8P.T1213..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1213/EHN.D/8P.T1213..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1213/EHZ.D/8P.T1213..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1213.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1214/EHE.D/8P.T1214..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1214/EHN.D/8P.T1214..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1214/EHZ.D/8P.T1214..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1214.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1215/EHE.D/8P.T1215..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1215/EHN.D/8P.T1215..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1215/EHZ.D/8P.T1215..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1215.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1216/EHE.D/8P.T1216..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1216/EHN.D/8P.T1216..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1216/EHZ.D/8P.T1216..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1216.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1217/EHE.D/8P.T1217..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1217/EHN.D/8P.T1217..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1217/EHZ.D/8P.T1217..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1217.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1218/EHE.D/8P.T1218..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1218/EHN.D/8P.T1218..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1218/EHZ.D/8P.T1218..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1218.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1219/EHE.D/8P.T1219..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1219/EHN.D/8P.T1219..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1219/EHZ.D/8P.T1219..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1219.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1220/EHE.D/8P.T1220..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1220/EHN.D/8P.T1220..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1220/EHZ.D/8P.T1220..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1220.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1221/EHE.D/8P.T1221..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1221/EHN.D/8P.T1221..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1221/EHZ.D/8P.T1221..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1221.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1241/EHE.D/8P.T1241..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1241/EHN.D/8P.T1241..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1241/EHZ.D/8P.T1241..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1241.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1243/HHE.D/8P.T1243..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1243/HHN.D/8P.T1243..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1243/HHZ.D/8P.T1243..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1243.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1244/EHE.D/8P.T1244..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1244/EHN.D/8P.T1244..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1244/EHZ.D/8P.T1244..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1244.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1245/HHE.D/8P.T1245..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1245/HHN.D/8P.T1245..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1245/HHZ.D/8P.T1245..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1245.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1246/HHE.D/8P.T1246..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1246/HHN.D/8P.T1246..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1246/HHZ.D/8P.T1246..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1246.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1247/HHE.D/8P.T1247..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1247/HHN.D/8P.T1247..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1247/HHZ.D/8P.T1247..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1247.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1256/HHE.D/8P.T1256..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1256/HHN.D/8P.T1256..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/8P/T1256/HHZ.D/8P.T1256..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/8P.T1256.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CAMP/HHE.D/IV.CAMP..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CAMP/HHN.D/IV.CAMP..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CAMP/HHZ.D/IV.CAMP..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.CAMP.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CESI/HHE.D/IV.CESI..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CESI/HHN.D/IV.CESI..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CESI/HHZ.D/IV.CESI..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.CESI.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CSP1/EHE.D/IV.CSP1..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CSP1/EHN.D/IV.CSP1..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/CSP1/EHZ.D/IV.CSP1..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.CSP1.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/FDMO/HHE.D/IV.FDMO..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/FDMO/HHN.D/IV.FDMO..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/FDMO/HHZ.D/IV.FDMO..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.FDMO.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/GIGS/HH1.D/IV.GIGS..HH1.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/GIGS/HH2.D/IV.GIGS..HH2.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/GIGS/HHZ.D/IV.GIGS..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.GIGS.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/GUMA/HHE.D/IV.GUMA..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/GUMA/HHN.D/IV.GUMA..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/GUMA/HHZ.D/IV.GUMA..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.GUMA.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/LNSS/HHE.D/IV.LNSS..HHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/LNSS/HHN.D/IV.LNSS..HHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/LNSS/HHZ.D/IV.LNSS..HHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.LNSS.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/MC2/EHE.D/IV.MC2..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/MC2/EHN.D/IV.MC2..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/MC2/EHZ.D/IV.MC2..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.MC2.xml
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.MF5.EHE: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.MF5.EHN: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.MF5.EHZ: All clients failed for get_waveforms.
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.MF5.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/MMO1/EHE.D/IV.MMO1..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/MMO1/EHN.D/IV.MMO1..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/MMO1/EHZ.D/IV.MMO1..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.MMO1.xml
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.MNTT.EHE: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.MNTT.EHN: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.MNTT.EHZ: All clients failed for get_waveforms.
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.MNTT.xml
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.NRCA.HHE: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.NRCA.HHN: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.NRCA.HHZ: All clients failed for get_waveforms.
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.NRCA.xml
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.PF6.EHE: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.PF6.EHN: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.PF6.EHZ: All clients failed for get_waveforms.
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.PF6.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/RM33/EHE.D/IV.RM33..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/RM33/EHN.D/IV.RM33..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/RM33/EHZ.D/IV.RM33..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.RM33.xml
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.SAP2.EHE: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.SAP2.EHN: All clients failed for get_waveforms.
+[!] http://webservices.ingv.it failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+[!] http://service.iris.edu failed for get_waveforms: No data available for request.
+HTTP Status code: 204
+Detailed response of server:
+
+
+  [!] Error downloading IV.SAP2.EHZ: All clients failed for get_waveforms.
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.SAP2.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/SMA1/EHE.D/IV.SMA1..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/SMA1/EHN.D/IV.SMA1..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/SMA1/EHZ.D/IV.SMA1..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.SMA1.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/T1299/EHE.D/IV.T1299..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/T1299/EHN.D/IV.T1299..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/IV/T1299/EHZ.D/IV.T1299..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/IV.T1299.xml
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/XO/AM05/EHE.D/XO.AM05..EHE.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/XO/AM05/EHN.D/XO.AM05..EHN.D.2016.304
+Saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveforms/2016/XO/AM05/EHZ.D/XO.AM05..EHZ.D.2016.304
+StationXML saved: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/inventory/XO.AM05.xml
+
+ Station metadata saved to: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/stations.csv
+
+>> Looking for a station to plot...
+>> Plotting station: CAMP (IV)
+Plot saved to: /Users/rossella.fonzetti/WORK/EGU2025/TUTORIAL_EPOS/TEST_AMATRICE/waveform_plot_CAMP.pdf
+===Download finished at 2025-04-14 15:00:05===
+Total duration: 0:08:11.143781

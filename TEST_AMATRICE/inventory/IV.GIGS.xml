@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.2">
+  <Source>eXistDB</Source>
+  <Sender>INGV-ONT</Sender>
+  <Module>INGV-ONT WEB SERVICE: fdsnws-station | version: 1.1.61</Module>
+  <ModuleURI>/exist/apps/fdsn-station/fdsnws/station/1/query?starttime=2016-10-30T00%3A00%3A00.000000&amp;endtime=2016-10-31T00%3A00%3A00.000000&amp;network=%2A&amp;channel=HH%3F%2CEH%3F&amp;minlatitude=42.4&amp;maxlatitude=43.2&amp;minlongitude=12.8&amp;maxlongitude=13.6&amp;level=channel</ModuleURI>
+  <Created>2025-04-14T12:50:40.676000Z</Created>
+  <Network code="IV" startDate="1988-01-01T00:00:00.000000Z" restrictedStatus="open">
+    <Description>Italian Seismic Network</Description>
+    <Identifier type="DOI">10.13127/sd/x0fxnh7qfy</Identifier>
+    <TotalNumberStations>547</TotalNumberStations>
+    <SelectedNumberStations>17</SelectedNumberStations>
+    <Station code="GIGS" startDate="2015-02-16T12:17:00.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">42.453167</Latitude>
+      <Longitude unit="DEGREES">13.572833</Longitude>
+      <Elevation>960.0</Elevation>
+      <Site>
+        <Name>GIGS</Name>
+      </Site>
+      <CreationDate>2015-02-16T12:17:00.000000Z</CreationDate>
+      <TotalNumberChannels>12</TotalNumberChannels>
+      <SelectedNumberChannels>3</SelectedNumberChannels>
+      <Channel code="HH1" startDate="2015-02-16T12:17:00.000000Z" endDate="2019-01-08T15:00:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">42.453167</Latitude>
+        <Longitude unit="DEGREES">13.572833</Longitude>
+        <Elevation>960.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">54.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <CalibrationUnits>
+          <Name>UNKNOWN</Name>
+          <Description>Unknown units</Description>
+        </CalibrationUnits>
+        <Sensor>
+          <Description>NANOMETRICS TRILLIUM-240</Description>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2</Description>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>376386000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>count</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+      <Channel code="HH2" startDate="2015-02-16T12:17:00.000000Z" endDate="2019-01-08T15:00:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">42.453167</Latitude>
+        <Longitude unit="DEGREES">13.572833</Longitude>
+        <Elevation>960.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">324.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <CalibrationUnits>
+          <Name>UNKNOWN</Name>
+          <Description>Unknown units</Description>
+        </CalibrationUnits>
+        <Sensor>
+          <Description>NANOMETRICS TRILLIUM-240</Description>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2</Description>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>376386000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>count</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" startDate="2015-02-16T12:17:00.000000Z" endDate="2019-01-08T15:00:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">42.453167</Latitude>
+        <Longitude unit="DEGREES">13.572833</Longitude>
+        <Elevation>960.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <CalibrationUnits>
+          <Name>UNKNOWN</Name>
+          <Description>Unknown units</Description>
+        </CalibrationUnits>
+        <Sensor>
+          <Description>NANOMETRICS TRILLIUM-240</Description>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2</Description>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>376386000.0</Value>
+            <Frequency>1.0</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>count</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+    </Station>
+  </Network>
+</FDSNStationXML>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.2">
+  <Source>eXistDB</Source>
+  <Sender>INGV-ONT</Sender>
+  <Module>INGV-ONT WEB SERVICE: fdsnws-station | version: 1.1.61</Module>
+  <ModuleURI>/exist/apps/fdsn-station/fdsnws/station/1/query?starttime=2016-10-30T00%3A00%3A00.000000&amp;endtime=2016-10-31T00%3A00%3A00.000000&amp;network=%2A&amp;channel=HH%3F%2CEH%3F&amp;minlatitude=42.4&amp;maxlatitude=43.2&amp;minlongitude=12.8&amp;maxlongitude=13.6&amp;level=channel</ModuleURI>
+  <Created>2025-04-14T12:50:40.676000Z</Created>
+  <Network code="IV" startDate="1988-01-01T00:00:00.000000Z" restrictedStatus="open">
+    <Description>Italian Seismic Network</Description>
+    <Identifier type="DOI">10.13127/sd/x0fxnh7qfy</Identifier>
+    <TotalNumberStations>547</TotalNumberStations>
+    <SelectedNumberStations>17</SelectedNumberStations>
+    <Station code="CESI" startDate="2007-01-08T15:00:00.000000Z" restrictedStatus="open">
+      <ingv:AlternateNetworks xmlns:ingv="https://raw.githubusercontent.com/FDSN/StationXML/master/fdsn-station.xsd">
+        <ingv:AlternateNetwork>
+          <ingv:Description>The Altotiberina Near Fault Observatory (TABOO), Italy.</ingv:Description>
+        </ingv:AlternateNetwork>
+      </ingv:AlternateNetworks>
+      <Latitude unit="DEGREES">43.0049</Latitude>
+      <Longitude unit="DEGREES">12.9046</Longitude>
+      <Elevation>840.0</Elevation>
+      <Site>
+        <Name>Cesi-Serravalle di Chienti</Name>
+      </Site>
+      <CreationDate>2007-01-08T15:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>30</TotalNumberChannels>
+      <SelectedNumberChannels>3</SelectedNumberChannels>
+      <Channel code="HHE" startDate="2016-03-02T10:04:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">43.0049</Latitude>
+        <Longitude unit="DEGREES">12.9046</Longitude>
+        <Elevation>840.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <Sensor>
+          <Description>NANOMETRICS TRILLIUM-40S</Description>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2-FS-16-VPP</Description>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1179650000.0</Value>
+            <Frequency>0.2</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>count</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+      <Channel code="HHN" startDate="2016-03-02T10:04:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">43.0049</Latitude>
+        <Longitude unit="DEGREES">12.9046</Longitude>
+        <Elevation>840.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <Sensor>
+          <Description>NANOMETRICS TRILLIUM-40S</Description>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2-FS-16-VPP</Description>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1179650000.0</Value>
+            <Frequency>0.2</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>count</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+      <Channel code="HHZ" startDate="2016-03-02T10:04:00.000000Z" restrictedStatus="open" locationCode="">
+        <Latitude unit="DEGREES">43.0049</Latitude>
+        <Longitude unit="DEGREES">12.9046</Longitude>
+        <Elevation>840.0</Elevation>
+        <Depth>0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate unit="SAMPLES/S">100.0</SampleRate>
+        <ClockDrift unit="SECONDS/SAMPLE">0.0</ClockDrift>
+        <Sensor>
+          <Description>NANOMETRICS TRILLIUM-40S</Description>
+        </Sensor>
+        <DataLogger>
+          <Description>INGV GAIA2-FS-16-VPP</Description>
+        </DataLogger>
+        <Response>
+          <InstrumentSensitivity>
+            <Value>1179650000.0</Value>
+            <Frequency>0.2</Frequency>
+            <InputUnits>
+              <Name>m/s</Name>
+              <Description>None</Description>
+            </InputUnits>
+            <OutputUnits>
+              <Name>count</Name>
+              <Description>None</Description>
+            </OutputUnits>
+          </InstrumentSensitivity>
+        </Response>
+      </Channel>
+    </Station>
+  </Network>
+</FDSNStationXML>
