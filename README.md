@@ -37,7 +37,7 @@ EPOS_TUTORIAL_EGU2025/
 │   ├── picks_CAMP.csv
 │   ├── picks_CSP1.csv
 │   ├── picks_FDMO.csv
-|   |__ ...
+│   ├── ...
 │   └── all_picks_2016.dat 
 ├── plot/                 # Figures and plots exported from analysis
 └── download_log.txt      # Log file tracking data download status
