@@ -30,6 +30,7 @@ EPOS_TUTORIAL_EGU2025/
 ├── TEST_AMATRICE/        # Specific dataset and files related to the Amatrice test case
 ├── inventory/            # Station inventories in XML format (e.g., StationXML)
 ├── catalog/              # Event catalog files and plot
+├── waveforms/            # Waveforms downloaded (not included in this repository for memory limits)
 ├── pick_list/            # Phase pick results (CSV and DAT formats)
 │   ├── picks_CAMP.csv
 │   ├── picks_CSP1.csv
