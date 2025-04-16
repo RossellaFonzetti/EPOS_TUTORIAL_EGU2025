@@ -26,10 +26,7 @@ EPOS_TUTORIAL_EGU2025/
 ├── data_example/         # Example datasets used for testing and development
 ├── eikonal/              # Scripts and outputs related to eikonal analysis
 ├── notebooks/            # Jupyter notebooks for data exploration and visualization
-├── output/               # General output files (plots, CSVs, waveforms, etc.)
-│   ├── stations.csv      # CSV containing station metadata
-│   ├── waveform_...pdf   # Exported waveform plots
-│   └── waveforms/        # Extracted or processed waveform files
+├── output/               # General output files (plots, CSVs to test notebooks)
 ├── TEST_AMATRICE/        # Specific dataset and files related to the Amatrice test case
 ├── inventory/            # Station inventories in XML format (e.g., StationXML)
 ├── catalog/              # Event catalog files and plot
