@@ -23,11 +23,24 @@ All examples are tailored to promote **FAIR data** practices and reproducible sc
 ```python
 ⁠ bash
 EPOS_TUTORIAL_EGU2025/
-├── notebooks/            # Jupyter Notebooks used in the tutorial
-├── data_example/         # Sample datasets
-├── output/               # Catalog and picks output files
-├── epos_tutorial.yml     # Conda environment for reproducibility
-└── README.md             # You're here!
+├── data_example/         # Example datasets used for testing and development
+├── eikonal/              # Scripts and outputs related to eikonal analysis
+├── notebooks/            # Jupyter notebooks for data exploration and visualization
+├── output/               # General output files (plots, CSVs, waveforms, etc.)
+│   ├── stations.csv      # CSV containing station metadata
+│   ├── waveform_...pdf   # Exported waveform plots
+│   └── waveforms/        # Extracted or processed waveform files
+├── TEST_AMATRICE/        # Specific dataset and files related to the Amatrice test case
+├── inventory/            # Station inventories in XML format (e.g., StationXML)
+├── catalog/              # Event catalog files and plot
+├── pick_list/            # Phase pick results (CSV and DAT formats)
+│   ├── picks_CAMP.csv
+│   ├── picks_CSP1.csv
+│   ├── picks_FDMO.csv
+|   |__ ...
+│   └── all_picks_2016.dat 
+├── plot/                 # Figures and plots exported from analysis
+└── download_log.txt      # Log file tracking data download status
 ```
 
 ## Requirements
