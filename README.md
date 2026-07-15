@@ -453,18 +453,6 @@ Waveform files may be excluded from the Git repository because of their size. Th
 
 The notebooks must be executed in numerical order.
 
-### `0_Introduction.ipynb`
-
-Provides a concise introduction to:
-
-- the Central Italy case study;
-- the purpose of the tutorial;
-- the processing workflow;
-- the expected inputs and outputs;
-- the distinction between a preliminary and a final seismic catalog.
-
-This notebook should not duplicate the complete README and should not describe processing steps that are not implemented in the tutorial.
-
 ### `1_download_mseed.ipynb`
 
 Retrieves seismic waveforms and station metadata.
@@ -655,7 +643,6 @@ This makes the notebooks easier to run on different computers.
 Run the notebooks in this order:
 
 ```text
-0_Introduction.ipynb
 1_download_mseed.ipynb
 2_apply_picking.ipynb
 3_build_the_catalog.ipynb
