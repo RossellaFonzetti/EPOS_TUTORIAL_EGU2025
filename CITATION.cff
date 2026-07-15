@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this tutorial, please cite it using the metadata below."
+title: "Deep-Learning Seismic Catalog Workflow for the 2016 Central Italy Sequence"
+type: software
+authors:
+  - family-names: Fonzetti
+    given-names: Rossella
+    email: rossella.fonzetti@ingv.it
+    affiliation: Istituto Nazionale di Geofisica e Vulcanologia
+  - family-names: Bailo
+    given-names: Daniele
+    email: daniele.bailo@ingv.it
+    affiliation: Istituto Nazionale di Geofisica e Vulcanologia
+repository-code: "https://github.com/RossellaFonzetti/EPOS_TUTORIAL_EGU2025"
+license: CC-BY-4.0
+version: "2.0.0"
+date-released: "2026-MM-DD"
