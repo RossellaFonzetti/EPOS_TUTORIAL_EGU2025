@@ -228,14 +228,31 @@ Retrieves continuous seismic waveforms for the requested stations and channels.
 
 The waveforms are stored in **MiniSEED** format.
 
-### EPOS Platform references
+### EPOS Seismology services used during data retrieval
 
-Before publishing the repository, add the exact EPOS Platform records corresponding to the services selected for the tutorial:
+The workflow retrieves seismic data through services of the **EPOS Seismology community**, operated within the ORFEUS–EIDA federated infrastructure.
 
-- `[EPOS Platform record – EIDA routing or waveform service](ADD_EP0S_PLATFORM_URL)`
-- `[EPOS Platform record – station metadata service](ADD_EP0S_PLATFORM_URL)`
+The following services are used during code execution:
 
-The records should refer to the services actually used by the released notebook.
+- **FDSN Dataselect webservice – INGV**  
+  Retrieves raw seismic waveform data for the requested networks, stations, channels and time intervals. Waveforms are returned in MiniSEED format.  
+  Service endpoint: `https://webservices.ingv.it/fdsnws/dataselect/1/query`  
+  Service documentation: [ORFEUS–EIDA FDSN Dataselect](https://www.orfeus-eu.org/data/eida/webservices/dataselect/)
+
+- **FDSN Station webservice – INGV**  
+  Retrieves seismic network, station and channel metadata, including station coordinates and instrumental-response information. Metadata are returned in StationXML format.  
+  Service endpoint: `https://webservices.ingv.it/fdsnws/station/1/query`  
+  Service documentation: [ORFEUS–EIDA FDSN Station](https://www.orfeus-eu.org/data/eida/webservices/station/)
+
+- **ORFEUS–EIDA Routing Service**  
+  Determines which European EIDA node is responsible for each requested seismic network and forwards waveform and station-metadata requests to the corresponding FDSN service.  
+  Service documentation: [ORFEUS–EIDA Routing Service](https://www.orfeus-eu.org/data/eida/webservices/routing/)
+
+The services are accessed programmatically through ObsPy:
+
+```python
+from obspy.clients.fdsn import RoutingClient
+client = RoutingClient("eida-routing")
 
 ---
 
@@ -261,7 +278,7 @@ The example notebooks process data from 30 October 2016.
 | 24 August 2016 | 04:33 | Mw 5.3 | 8 km | Norcia |
 | 26 October 2016 | 19:10 | Mw 5.4 | 9 km | Castelsantangelo sul Nera |
 | 26 October 2016 | 21:18 | Mw 5.9 | 8 km | Ussita |
-#| 30 October 2016 | 07:40 | Mw 6.5 | 9 km | Norcia |
+| 30 October 2016 | 07:40 | Mw 6.5 | 9 km | Norcia |
 | 18 January 2017 | 10:25 | Mw 5.1 | 10 km | Montereale |
 | 18 January 2017 | 11:14 | Mw 5.5 | 10 km | Capitignano |
 | 18 January 2017 | 11:25 | Mw 5.4 | 9 km | Pizzoli |
@@ -394,7 +411,6 @@ EPOS_TUTORIAL_EGU2025/
 ├── README.md
 ├── environment.yml
 │
-├── 0_Introduction.ipynb
 ├── 1_download_mseed.ipynb
 ├── 2_apply_picking.ipynb
 ├── 3_build_the_catalog.ipynb
