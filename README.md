@@ -253,7 +253,7 @@ The services are accessed programmatically through ObsPy:
 ```python
 from obspy.clients.fdsn import RoutingClient
 client = RoutingClient("eida-routing")
-
+```
 ---
 
 ## Case study
